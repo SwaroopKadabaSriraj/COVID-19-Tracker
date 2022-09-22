@@ -1,6 +1,5 @@
 # COVID-19-Tracker
-React COVID Tracker
-Available Scripts
+###Available Scripts
 In the project directory, you can run:
 
 npm start
